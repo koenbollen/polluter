@@ -1,0 +1,14 @@
+{
+  "name": "polluter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.x",
+    "jade": "*",
+    "cheerio": "0.10.x",
+    "request": "~2.12.0"
+  }
+}
